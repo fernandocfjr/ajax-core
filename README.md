@@ -1,5 +1,5 @@
 # Nevellus - Ajax Project
-### _Ajax is a project, it doesn`t represent _that this _service/solution_ will be_ deployed in mainnets!_
+### _Ajax is a research project, it doesn`t represent that this service/solution will be deployed on production mainnets!_
 
 Ajax is a non-custodial Ethereum and ERC20 privacy solution based on zkSNARKs. It improves transaction privacy by breaking the on-chain link between the recipient and destination addresses. It uses a smart contract that accepts ETH deposits that can be withdrawn by a different address. Whenever ETH is withdrawn by the new address, there is no way to link the withdrawal to the deposit, ensuring complete privacy.
 
